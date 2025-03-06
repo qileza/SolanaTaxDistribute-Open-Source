@@ -65,9 +65,9 @@ The application can be configured through the web interface or by editing the co
 
 ## Community & Support
 
-- **Documentation**: Check our [Wiki](https://github.com/yourusername/solana-tax-distributor/wiki)
-- **Issues**: Report bugs via [GitHub Issues](https://github.com/yourusername/solana-tax-distributor/issues)
-- **Discussions**: Join our [Telegram Community](https://t.me/your_support_channel) for:
+
+
+- **Discussions**: Join our [Telegram Community](https://t.me/SolanaTaxPro) for:
   - Technical support
   - Feature discussions
   - Integration guidance
@@ -81,7 +81,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## Security
 
-This software is provided as-is. While we strive for security best practices, users should perform their own security audits before deployment. For sensitive deployments, we recommend reaching out to our [support team](https://t.me/your_support_channel) for guidance.
+This software is provided as-is. While we strive for security best practices, users should perform their own security audits before deployment. For sensitive deployments, we recommend reaching out to our [support team](https://t.me/SolanaTaxPro) for guidance.
 
 ## Disclaimer
 
@@ -93,5 +93,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-⭐ Found this project helpful? Star us on GitHub and join our [community](https://t.me/your_support_channel) for updates!
+⭐ Found this project helpful? Star us on GitHub and join our [community](https://t.me/SolanaTaxPro) for updates!
 
