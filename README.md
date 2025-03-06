@@ -12,6 +12,16 @@ A powerful open-source tool for managing SPL Token-2022 tax distributions on the
 - **Secure Key Management**: Encrypted storage of sensitive data
 - **Professional UI**: Modern, responsive interface with real-time updates
 
+
+
+
+https://github.com/user-attachments/assets/4fc44494-1aa2-46e3-ae85-9c2e32be27ae
+
+
+
+
+
+
 ## Quick Start
 
 1. Clone the repository
