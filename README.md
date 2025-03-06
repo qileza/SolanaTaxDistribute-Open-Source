@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/4fc44494-1aa2-46e3-ae85-9c2e32be27ae
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/solana-tax-distributor
+git clone 
 cd solana-tax-distributor
 ```
 
